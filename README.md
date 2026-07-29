@@ -26,6 +26,7 @@
 
 - [Trivy](https://github.com/aquasecurity/trivy) — Vulnerability scanner for containers
 - [Falco](https://falco.org/) — Runtime security for Kubernetes
+- [Darkmoon](https://github.com/ASCIT31/Dark-Moon) — Open source (GPL-3.0) autonomous AI penetration testing platform covering web, API, Active Directory and Kubernetes.
 - [Docker Bench Security](https://github.com/docker/docker-bench-security) — CIS benchmark checker
 - [Cosign](https://github.com/sigstore/cosign) — Container image signing
 - [Dockle](https://github.com/goodwithtech/dockle) — Container image linter
